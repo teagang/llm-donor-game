@@ -1,1 +1,13 @@
-
+11 November
+- Only testing Gemini 2.5 flash, commented OpenAI and Anthropic out
+- Parameters: 
+  - numAgents = 4
+  - numGenerations = 2
+  - number_of_rounds = 2
+  - Integrated Weights and Biases
+  - Testing it with 12 agents and 12 rounds
+TODO: 
+- Test for more generations
+- Try add a credit card for gemini tier 1
+- Check out openai partner program key
+- And Claude $5 option
