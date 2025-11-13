@@ -1,4 +1,4 @@
-11 November
+### 11 November
 - Only testing Gemini 2.5 flash, commented OpenAI and Anthropic out
 - Parameters: 
   - numAgents = 4
@@ -11,3 +11,7 @@ TODO:
 - Try add a credit card for gemini tier 1
 - Check out openai partner program key
 - And Claude $5 option
+  
+### 13 November
+- Switched to OpenRouter and simplified the long elif block that checks which llm we're using
+- Changed the llm name for file saving to use '_' instead of '/' as it was causing folder issues for google drive
